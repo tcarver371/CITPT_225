@@ -1,0 +1,15 @@
+h1{
+    text-indent: 35%;
+}
+p{
+    font-weight: bold;
+    font-size: 150%;
+}
+ul li ul li{
+    font-size: 130%;
+    font-weight: bold;
+}
+ul li{
+
+    font-size: 150%;
+}
